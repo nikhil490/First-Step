@@ -1,6 +1,5 @@
 # First-Step
-## First step towards machine learning
-### To recognize iris species 
+## First step towards machine learning 
 1. Implement a Multilayer Perceptron (no Libraries) 
 2. scikit-learn with k nearest neighbors
 3. TensorFlow basics 
