@@ -1,4 +1,2 @@
 # First-Step
-First step towards machine learning
-Implementing stochastic gradient descent using backpropogation algorithm in python for correcty classifing handwritten digits .
-Training data and test data is from MNIST
+Logistic Regression with Python and Scikit-Learn and build a classifier to predict whether or not it will rain tomorrow in Australia. I train a binary classification model using Logistic Regression. I have used the Rain in Australia dataset for this project
