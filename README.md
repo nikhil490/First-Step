@@ -1,5 +1,5 @@
 # WNS Machine Learning Challenge
-XGBoost model with parameter tuning with bayesian Optimization with 8 stratifiedKfolds.
+XGBoost model with parameter tuning with bayesian Optimization with 5 Kfolds.
 
 ## Things Tried
 1. Need to do binning of the age features.
