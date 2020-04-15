@@ -23,7 +23,7 @@ XGBoost model with parameter tuning with bayesian Optimization .
 2. recruitment_channel have no impact on the promotion so removed that.
 3. age of joining by age - years of service
 # To try
-1. Apply the Pca on the input set and get the single column which summarized the input features in the 1 Dimension and used that as a     new features.helps to improve the score by 0.5 percent.
+1. Apply the Pca on the input set and get the single column which summarized the input features in the 1 Dimension.
 2. OOF predictions were used for finding the right threshold value.
 3. kNN imputation, Random Forest imputation , MICE
 4. Need to do binning of the age features.
